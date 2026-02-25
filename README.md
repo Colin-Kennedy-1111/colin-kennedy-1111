@@ -1,110 +1,38 @@
-<!-- Neon dashboard UI theme. IP-safe. No contacts. -->
+<!-- Clean UI: minimal, high-signal, human. -->
 
-<div align="center">
-
-# Colin Kennedy
-
-### Full‑Stack @ Intel • Internal Platforms • Developer Experience • AI Agents
-
-<b>Building high-leverage internal systems that automate toil and keep engineers in flow.</b>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Dashboard
-
-</div>
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>🚀 Execution</h3>
-      <p>Idea → production → adoption.</p>
-      <p>Optimize for shipping and real usage.</p>
-    </td>
-    <td width="33%">
-      <h3>🧠 Agents</h3>
-      <p>Tool-based actions, guardrails, auditability.</p>
-      <p>Useful automation over demos.</p>
-    </td>
-    <td width="33%">
-      <h3>🛡️ Reliability</h3>
-      <p>Observability-first.</p>
-      <p>Predictable behavior under stress.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-## 🛰️ Featured Tiles (IP-safe)
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧱 FDC4U</h3>
-      <p><b>Internal application</b></p>
-      <ul>
-        <li>One of <b>3</b> primary developers</li>
-        <li>Used by <b>hundreds</b> of engineers</li>
-        <li>Automates major manual workflows end-to-end</li>
-      </ul>
-      <p><b>Theme:</b> speed • clarity • adoption</p>
-    </td>
-    <td width="50%">
-      <h3>🧠 SOMA — SQL Agent Tool</h3>
-      <p><b>Lead developer</b></p>
-      <ul>
-        <li>Agent workflow for SQL-driven work</li>
-        <li>Guardrails + tool-calling for predictable actions</li>
-        <li>Connects to <b>Oracle DB</b></li>
-      </ul>
-      <p><b>Theme:</b> trust • safety • usability</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-## 🧩 Stack Snapshot
-
-</div>
+<h1 align="center">Colin Kennedy</h1>
 
 <p align="center">
-  <b>Python</b> • <b>TypeScript</b> • <b>FastAPI</b> • <b>Docker</b>
+  Full‑stack engineer @ Intel • internal products • AI agents
+</p>
+
+<p align="center">
+  I build internal tools that engineers actually enjoy using — fast UX, reliable backends, real adoption.
 </p>
 
 ---
 
-<div align="center">
+## What I’m known for
+- Shipping internal systems that remove **repetitive manual work**
+- Building **agent-powered tooling** with guardrails (usable + predictable)
+- Owning features end‑to‑end: design → build → deploy → iterate
 
-## 🔥 I optimize for
+## Products 
+**FDC4U** — one of 3 primary developers  
+- Used by **hundreds** of engineers  
+- Automates large chunks of manual workflow
 
-</div>
+**SOMA** — lead developer (SQL agent tool)  
+- Agent workflow for SQL-driven tasks
+- Gives nontechnical users access to advanced SQL query building
+- Designed for trust: clear intent → explicit actions → safe defaults
 
-- **Toil reduction:** fewer clicks, fewer manual steps, fewer handoffs  
-- **Flow state:** reduce context switching and “where do I even do this?” moments  
-- **Safe automation:** clear intent → explicit actions → auditable outcomes  
-- **Maintainable velocity:** systems that stay easy to extend after launch
+## Stack (current)
+- **Python**, **TypeScript**
+- **FastAPI**
+- **Docker**
 
----
-
-<div align="center">
-
-## 🔒 Note on details
-
-</div>
-
-<p align="center">
-  I keep specifics high-level to respect internal IP/security.
-  I’m always happy to talk about architecture patterns, execution tradeoffs, and how to ship reliable tooling.
-</p>
+## How I like to build
+- Tight feedback loops, small releases
+- UX + reliability treated as first-class features
+- Systems that are easy to own after launch (docs, tests, observability)
