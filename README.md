@@ -1,23 +1,12 @@
-<!-- Same layout, but with optional GitHub cards enabled -->
-<!-- Note: cards reflect public GitHub activity; if most work is private, they may look sparse -->
+<!-- Neon dashboard UI theme. IP-safe. No contacts. -->
 
 <div align="center">
 
 # Colin Kennedy
 
-### Full‑Stack Engineer @ Intel • Internal Platforms • Developer Experience • AI Agents
+### Full‑Stack @ Intel • Internal Platforms • Developer Experience • AI Agents
 
-**I ship internal systems that eliminate toil, automate manual work, and make engineers faster.**
-
-<a href="#selected-work">Selected Work</a> •
-<a href="#execution-signals">Execution Signals</a> •
-<a href="#toolbox">Toolbox</a> •
-<a href="#contact">Contact</a>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Colin-Kennedy-1111&show_icons=true&theme=tokyonight&hide_title=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colin-Kennedy-1111&layout=compact&theme=tokyonight" />
+<b>Building high-leverage internal systems that automate toil and keep engineers in flow.</b>
 
 </div>
 
@@ -25,54 +14,97 @@
 
 <div align="center">
 
-## Value I bring
+## ⚡ Dashboard
 
 </div>
 
-- **Execution-first:** I take tools from idea → production → adoption, then iterate based on real user feedback.
-- **Developer quality-of-life focus:** I build systems that reduce friction, context switching, and repetitive tasks.
-- **Agent specialization:** I design practical AI agents with **guardrails**, **tooling**, and **auditability**—built for day-to-day workflows, not demos.
-- **Reliable internal products:** clean interfaces, observability, sensible defaults, and maintainable code paths.
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🚀 Execution</h3>
+      <p>Idea → production → adoption.</p>
+      <p>Optimize for shipping and real usage.</p>
+    </td>
+    <td width="33%">
+      <h3>🧠 Agents</h3>
+      <p>Tool-based actions, guardrails, auditability.</p>
+      <p>Useful automation over demos.</p>
+    </td>
+    <td width="33%">
+      <h3>🛡️ Reliability</h3>
+      <p>Observability-first.</p>
+      <p>Predictable behavior under stress.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 id="selected-work">Selected work (IP-safe)</h2>
+<div align="center">
 
-### FDC4U — Internal Application (Primary Developer)
-- **One of 3 primary developers**
-- **Used by hundreds of engineers**
-- **Completely automates** significant manual work across internal workflows
-- Full‑stack delivery with ongoing improvements driven by user needs and operational reality
+## 🛰️ Featured Tiles (IP-safe)
 
-### SOMA — SQL Agent Tool (Lead Developer)
-- **Lead developer**
-- AI-assisted workflow for SQL-driven tasks designed to be **useful, safe, and predictable**
-- Emphasis on: tool-based actions, guardrails, clarity of intent, and strong UX for trust
+</div>
 
-> I intentionally keep implementation details high-level to respect internal IP and security practices.
-
----
-
-<h2 id="execution-signals">Execution signals</h2>
-
-- **Ownership:** I drive features end-to-end (design → build → deploy → maintain).
-- **Bias for simplicity:** I aim for the smallest solution that’s correct, observable, and easy to extend.
-- **Operational mindset:** I care about performance, failure modes, logging/metrics, and long-term reliability.
-- **User empathy:** I build for the engineer experience—fewer steps, fewer clicks, fewer footguns.
-
----
-
-<h2 id="toolbox">Toolbox (high-level)</h2>
-
-**Full stack:** internal web apps, APIs, data-backed workflows  
-**Agents:** tool calling, workflow orchestration, evaluation/feedback loops, safety patterns  
-**Quality:** testing strategies, observability, performance tuning, reliability-first design  
-**Collaboration:** docs that ship with the code, pragmatic reviews, iterative delivery
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧱 FDC4U</h3>
+      <p><b>Internal application</b></p>
+      <ul>
+        <li>One of <b>3</b> primary developers</li>
+        <li>Used by <b>hundreds</b> of engineers</li>
+        <li>Automates major manual workflows end-to-end</li>
+      </ul>
+      <p><b>Theme:</b> speed • clarity • adoption</p>
+    </td>
+    <td width="50%">
+      <h3>🧠 SOMA — SQL Agent Tool</h3>
+      <p><b>Lead developer</b></p>
+      <ul>
+        <li>Agent workflow for SQL-driven work</li>
+        <li>Guardrails + tool-calling for predictable actions</li>
+        <li>Connects to <b>Oracle DB</b></li>
+      </ul>
+      <p><b>Theme:</b> trust • safety • usability</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 id="contact">Contact</h2>
+<div align="center">
 
-- LinkedIn: **[add link]**
-- Website/Portfolio: **[add link]**
-- Email: **[add email or preferred contact]**
+## 🧩 Stack Snapshot
+
+</div>
+
+<p align="center">
+  <b>Python</b> • <b>TypeScript</b> • <b>FastAPI</b> • <b>Docker</b>
+</p>
+
+---
+
+<div align="center">
+
+## 🔥 I optimize for
+
+</div>
+
+- **Toil reduction:** fewer clicks, fewer manual steps, fewer handoffs  
+- **Flow state:** reduce context switching and “where do I even do this?” moments  
+- **Safe automation:** clear intent → explicit actions → auditable outcomes  
+- **Maintainable velocity:** systems that stay easy to extend after launch
+
+---
+
+<div align="center">
+
+## 🔒 Note on details
+
+</div>
+
+<p align="center">
+  I keep specifics high-level to respect internal IP/security.
+  I’m always happy to talk about architecture patterns, execution tradeoffs, and how to ship reliable tooling.
+</p>
