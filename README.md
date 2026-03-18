@@ -31,6 +31,7 @@
 - **Python**, **TypeScript**
 - **FastAPI**
 - **Docker**
+- **SQL**
 
 ## How I like to build
 - Tight feedback loops, small releases
